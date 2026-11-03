@@ -1,350 +1,196 @@
 
-<!-- =========================================================
- SATYA SAI | PREMIUM GITHUB PROFILE
- Theme: CYBERPUNK AI LAB / DEEP SPACE
- ========================================================= -->
+<!-- ===================================================== -->
+<!--                 SATYA SAI - PROFILE README             -->
+<!-- ===================================================== -->
 
-<!-- HERO -->
-<p align="center">
-  <img src="assets/orbit-banner.svg" width="100%" alt="Satya Sai | Data Analytics and Agentic AI"/>
+<div align="center">
+
+# NUNE SATYA SAI KUMAR
+
+### Data Analyst | GenAI & Agentic AI Engineer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Transforming+Data+into+Insights;Building+Intelligent+AI+Solutions;SQL+%7C+Python+%7C+Power+BI+%7C+GenAI;Turning+Complex+Problems+into+Simple+Solutions" alt="Typing SVG" />
 </p>
 
-<h1 align="center">NUNE SATYA SAI KUMAR</h1>
-
-<h3 align="center">
-  DATA ANALYST <span>◆</span> GENAI & AGENTIC AI ENGINEER
-</h3>
-
-<p align="center">
-  <em>Engineering intelligence. Unlocking insights. Creating impact.</em>
-</p>
-
-<p align="center">
-  <a href="mailto:nsatyasaichowdary1616@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-050812?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+<p>
+  <a href="https://github.com/nsatyasaichowdary1616-debug">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/nsatyasai">
-    <img src="https://img.shields.io/badge/LINKEDIN-050812?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nsatyasaichowdary1616-debug">
-    <img src="https://img.shields.io/badge/GITHUB-050812?style=for-the-badge&logo=github&logoColor=A855F7"/>
+  <a href="mailto:nsatyasaichowdary1616@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/HYDERABAD-INDIA-050812?style=for-the-badge&logo=googlemaps&logoColor=00E5FF"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Intelligence;Building+Enterprise+RAG+Systems;Engineering+Multi-Agent+AI+Workflows;Turning+Complex+Data+Into+Decisions" alt="Animated tagline"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nsatyasaichowdary1616-debug&style=for-the-badge&color=00D9FF" alt="Profile views"/>
+</p>
+
+📍 Hyderabad, India
+
+</div>
+
+---
+
+## ABOUT ME
+
+I'm a **Data Analyst and GenAI / Agentic AI Engineer** passionate about transforming raw data into meaningful business insights and building intelligent AI-powered solutions.
+
+With hands-on experience in data analytics, ETL pipelines, SQL optimization, business intelligence dashboards, and AI automation, I enjoy solving real-world problems through data and technology.
+
+- 📊 Experienced in building data pipelines and interactive dashboards.
+- 🐍 Working with Python, SQL, and data processing libraries.
+- 📈 Creating business intelligence solutions using Power BI and Tableau.
+- 🤖 Exploring Generative AI, RAG, LangChain, and AutoGen.
+- ⚡ Interested in automation, analytics, and intelligent systems.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### Data Analyst | Vangrove Tech
+**October 2025 – October 2026 | Hyderabad, India**
+
+- Developed Python-based ETL pipelines processing **1.4M+ monthly transactions**, maintaining 99.4% data integrity.
+- Optimized SQL queries across **1.2M+ records**, reducing execution time by 82% (4.2 minutes to 45 seconds).
+- Built **5 interactive Power BI and Tableau dashboards**, saving approximately 16 analyst-hours per week.
+- Developed an enterprise RAG assistant across **15K+ documents**, reducing information retrieval time by 75%.
+- Created an AutoGen multi-agent auditing system, reducing weekly triage time from 14 hours to 35 minutes.
+
+---
+
+## TECHNICAL SKILLS
+
+### Programming & Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### Business Intelligence & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+
+### Databases & ETL
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-008080?style=for-the-badge" alt="ETL"/>
+  <img src="https://img.shields.io/badge/Data_Processing-4B8BBE?style=for-the-badge" alt="Data Processing"/>
+</p>
+
+### Generative AI & Agentic AI
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" alt="AutoGen"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-<!-- 01: THE IMPACT -->
-<h2 align="center">01 / THE IMPACT</h2>
+## FEATURED PROJECTS
 
-<p align="center">
-  <sub>ENGINEERING RESULTS · MEASURABLE OUTCOMES</sub>
-</p>
+### 1. Hand Gesture Controlling System
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<h1>1.4M+</h1>
-<strong>TRANSACTIONS</strong>
-<br/>
-<sub>Monthly ETL processing</sub>
-</td>
-<td align="center" width="25%">
-<h1>82%</h1>
-<strong>SQL OPTIMIZATION</strong>
-<br/>
-<sub>Faster query execution</sub>
-</td>
-<td align="center" width="25%">
-<h1>15K+</h1>
-<strong>DOCUMENTS</strong>
-<br/>
-<sub>Enterprise RAG knowledge base</sub>
-</td>
-<td align="center" width="25%">
-<h1>16 HRS</h1>
-<strong>TIME SAVED</strong>
-<br/>
-<sub>Every week through BI dashboards</sub>
-</td>
-</tr>
-</table>
+**Technologies:** Python | OpenCV
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DATA_INTEGRITY-99.4%25-00E5FF?style=flat-square&labelColor=0B1124"/>
-  <img src="https://img.shields.io/badge/RAG_RETRIEVAL-75%25_FASTER-A855F7?style=flat-square&labelColor=0B1124"/>
-  <img src="https://img.shields.io/badge/AUTOGEN_TRIAGE-14H_TO_35MIN-3B82F6?style=flat-square&labelColor=0B1124"/>
-</p>
+- Developed a computer vision-based system to recognize hand gestures.
+- Used image processing techniques to detect and interpret hand movements.
+- Designed an interactive approach to controlling system operations through gestures.
+
+### 2. AI-Based Surveillance System
+
+**Technologies:** Python | OpenCV | TensorFlow
+
+- Developed an AI-powered surveillance solution using computer vision.
+- Applied image processing and deep learning techniques for visual monitoring.
+- Explored automated detection to improve surveillance capabilities.
 
 ---
 
-<!-- 02: ABOUT -->
-<h2>02 / BEHIND THE SYSTEM</h2>
+## ACHIEVEMENTS
 
-I'm **Satya Sai**, a Data Analyst and GenAI / Agentic AI Engineer interested in building intelligent, data-driven solutions.
+🏆 **1st Place – BRAIN-O-VISION AWS Hackathon (2023)**
 
-I work across the complete journey of data — from extraction, transformation and SQL optimization to business intelligence, enterprise knowledge retrieval and AI-powered automation.
-
-My focus is on building practical systems that make information more accessible, workflows more efficient and decisions more informed.
-
-**What I bring to the table:**
-
-- **Data Engineering:** Python ETL pipelines, data processing and integrity.
-- **Analytics:** SQL optimization, data analysis and reporting.
-- **Business Intelligence:** Interactive Power BI and Tableau dashboards.
-- **Generative AI:** Retrieval-Augmented Generation and LangChain.
-- **Agentic AI:** AutoGen and multi-agent automation architectures.
-- **Computer Vision:** Python, OpenCV and TensorFlow.
+🏆 **Healthcare Winner – METALOOP (2023)**  
+Developed a Unity-based VR solution.
 
 ---
 
-<!-- 03: EXPERIENCE -->
-<h2>03 / PROFESSIONAL EXPERIENCE</h2>
+## EDUCATION
 
-<h3>◈ Data Analyst — Vangrove Tech</h3>
+**B.Tech – Computer Science and Engineering**
 
-<p>
-  <img src="https://img.shields.io/badge/OCT_2025-OCT_2026-0B1124?style=flat-square&labelColor=050812&color=00E5FF"/>
-  <img src="https://img.shields.io/badge/HYDERABAD-INDIA-0B1124?style=flat-square&labelColor=050812&color=A855F7"/>
-</p>
-
-<table width="100%">
-<tr>
-<td width="27%" valign="top">
-<strong>01 / ETL ENGINEERING</strong>
-</td>
-<td>
-Built Python ETL pipelines processing <strong>1.4M+ monthly transactions</strong> with <strong>99.4% data integrity</strong>.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong>02 / SQL OPTIMIZATION</strong>
-</td>
-<td>
-Reduced SQL query execution time by <strong>82%</strong> across 1.2M+ records, taking execution time from 4.2 minutes to 45 seconds.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong>03 / BUSINESS INTELLIGENCE</strong>
-</td>
-<td>
-Delivered <strong>5 Power BI and Tableau dashboards</strong>, saving 16 analyst-hours per week.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong>04 / ENTERPRISE RAG</strong>
-</td>
-<td>
-Built a RAG assistant over <strong>15K+ documents</strong>, reducing information retrieval time by 75%.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong>05 / AGENTIC AUTOMATION</strong>
-</td>
-<td>
-Built an AutoGen multi-agent auditor, reducing weekly triage from 14 hours to 35 minutes.
-</td>
-</tr>
-</table>
-
----
-
-<!-- 04: TECH STACK -->
-<h2>04 / THE TECHNOLOGY MATRIX</h2>
-
-<p align="center">
-  <sub>TOOLS · FRAMEWORKS · ENGINEERING CAPABILITIES</sub>
-</p>
-
-<h3>◈ Data Analytics & Data Engineering</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-050812?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/SQL-050812?style=for-the-badge&logo=mysql&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/Pandas-050812?style=for-the-badge&logo=pandas&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/NumPy-050812?style=for-the-badge&logo=numpy&logoColor=00E5FF"/>
-</p>
-
-<h3>◈ Business Intelligence & Visualization</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-050812?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Tableau-050812?style=for-the-badge&logo=tableau&logoColor=00E5FF"/>
-</p>
-
-<h3>◈ Generative AI & Agentic AI</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-050812?style=for-the-badge&logo=openai&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/RAG-050812?style=for-the-badge&logo=databricks&logoColor=A855F7"/>
-  <img src="https://img.shields.io/badge/LangChain-050812?style=for-the-badge&logo=chainlink&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/AutoGen-050812?style=for-the-badge&logo=microsoft&logoColor=3B82F6"/>
-</p>
-
-<h3>◈ Programming, Cloud & Computer Vision</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/C-050812?style=for-the-badge&logo=c&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/AWS-050812?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/OpenCV-050812?style=for-the-badge&logo=opencv&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/TensorFlow-050812?style=for-the-badge&logo=tensorflow&logoColor=FF9A00"/>
-</p>
-
----
-
-<!-- 05: PROJECTS -->
-<h2 align="center">05 / SELECTED PROJECTS</h2>
-
-<p align="center">
-  <sub>COMPUTER VISION · ARTIFICIAL INTELLIGENCE</sub>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">01. Hand Gesture Controlling System</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&logo=python&logoColor=050812"/>
-  <img src="https://img.shields.io/badge/OPENCV-3B82F6?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
-
-<p>
-A computer vision-based system designed to interpret hand gestures and enable gesture-driven computer interaction.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">02. AI-Based Surveillance System</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-00E5FF?style=flat-square&logo=python&logoColor=050812"/>
-  <img src="https://img.shields.io/badge/OPENCV-3B82F6?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TENSORFLOW-A855F7?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-
-<p>
-An AI-powered surveillance project combining computer vision and deep learning technologies for intelligent monitoring.
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- 06: ACHIEVEMENTS -->
-<h2>06 / RECOGNITION & ACHIEVEMENTS</h2>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏆 FIRST PLACE</h3>
-
-**BRAIN-O-VISION AWS Hackathon 2023**
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🥇 HEALTHCARE WINNER</h3>
-
-**METALOOP 2023**
-
-Unity VR
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- 07: EDUCATION -->
-<h2>07 / EDUCATION & CERTIFICATIONS</h2>
-
-<h3>Bachelor of Technology — Computer Science and Engineering</h3>
-
-**MLR Institute of Technology**
-
+MLR Institute of Technology  
 2021 – 2025
 
-**CGPA: 7.34 / 10**
-
-<h3>Certifications</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Udemy-050812?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/C_Programming-HackerRank-050812?style=for-the-badge&logo=hackerrank&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Integrated_AI-Rinex-050812?style=for-the-badge&logo=openai&logoColor=A855F7"/>
-</p>
+**CGPA:** 7.34 / 10
 
 ---
 
-<!-- 08: GITHUB ANALYTICS -->
-<h2 align="center">08 / GITHUB TELEMETRY</h2>
+## CERTIFICATIONS
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nsatyasaichowdary1616-debug&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=050812&title_color=00E5FF&icon_color=A855F7&text_color=F8FAFC" alt="GitHub statistics"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=nsatyasaichowdary1616-debug&theme=tokyonight&hide_border=true&background=050812&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=94A3B8" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsatyasaichowdary1616-debug&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050812&title_color=00E5FF&text_color=F8FAFC" alt="Top programming languages"/>
-</p>
-
-<h3 align="center">GITHUB TROPHIES</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nsatyasaichowdary1616-debug&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8" width="100%" alt="GitHub trophies"/>
-</p>
+- Python – Udemy
+- C Programming – HackerRank
+- Integrated AI – Rinex
 
 ---
 
-<!-- 09: CONTRIBUTION SNAKE -->
-<h2 align="center">09 / CONTRIBUTION MATRIX</h2>
+## GITHUB STATISTICS
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsatyasaichowdary1616-debug/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsatyasaichowdary1616-debug/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/nsatyasaichowdary1616-debug/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
-  </picture>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nsatyasaichowdary1616-debug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsatyasaichowdary1616-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nsatyasaichowdary1616-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-<!-- 10: CONTACT -->
-<h2 align="center">10 / LET'S BUILD SOMETHING INTELLIGENT</h2>
+## LET'S CONNECT
 
-<p align="center">
-  I’m interested in opportunities and conversations around Data Analytics,
-  Business Intelligence, Generative AI and Agentic AI.
-</p>
+I'm always interested in connecting with professionals, collaborating on projects, and exploring opportunities in Data Analytics and Artificial Intelligence.
 
-<p align="center">
-  <a href="mailto:nsatyasaichowdary1616@gmail.com">
-    <img src="https://img.shields.io/badge/START_A_CONVERSATION-00E5FF?style=for-the-badge&logo=gmail&logoColor=050812"/>
-  </a>
-  <a href="https://linkedin.com/in/nsatyasai">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<!-- SIGNATURE FOOTER -->
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Building intelligent systems. Turning data into decisions."/>
-</p>
+<a href="mailto:nsatyasaichowdary1616@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<p align="center">
-  <sub>DATA → INSIGHT → INTELLIGENCE → IMPACT</sub>
-</p>
+<a href="https://linkedin.com/in/nsatyasai">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/nsatyasaichowdary1616-debug">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**"Turning Data into Insights. Turning Ideas into Intelligent Solutions."**
+
+</div>
