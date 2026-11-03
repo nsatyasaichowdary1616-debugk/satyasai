@@ -1,196 +1,174 @@
-
-<!-- ===================================================== -->
-<!--                 SATYA SAI - PROFILE README             -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-# NUNE SATYA SAI KUMAR
-
-### Data Analyst | GenAI & Agentic AI Engineer
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Transforming+Data+into+Insights;Building+Intelligent+AI+Solutions;SQL+%7C+Python+%7C+Power+BI+%7C+GenAI;Turning+Complex+Problems+into+Simple+Solutions" alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/nsatyasaichowdary1616-debug">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/nsatyasai">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nsatyasaichowdary1616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nsatyasaichowdary1616-debug&style=for-the-badge&color=00D9FF" alt="Profile views"/>
-</p>
-
-📍 Hyderabad, India
-
-</div>
-
----
-
-## ABOUT ME
-
-I'm a **Data Analyst and GenAI / Agentic AI Engineer** passionate about transforming raw data into meaningful business insights and building intelligent AI-powered solutions.
-
-With hands-on experience in data analytics, ETL pipelines, SQL optimization, business intelligence dashboards, and AI automation, I enjoy solving real-world problems through data and technology.
-
-- 📊 Experienced in building data pipelines and interactive dashboards.
-- 🐍 Working with Python, SQL, and data processing libraries.
-- 📈 Creating business intelligence solutions using Power BI and Tableau.
-- 🤖 Exploring Generative AI, RAG, LangChain, and AutoGen.
-- ⚡ Interested in automation, analytics, and intelligent systems.
-
----
-
-## PROFESSIONAL EXPERIENCE
-
-### Data Analyst | Vangrove Tech
-**October 2025 – October 2026 | Hyderabad, India**
-
-- Developed Python-based ETL pipelines processing **1.4M+ monthly transactions**, maintaining 99.4% data integrity.
-- Optimized SQL queries across **1.2M+ records**, reducing execution time by 82% (4.2 minutes to 45 seconds).
-- Built **5 interactive Power BI and Tableau dashboards**, saving approximately 16 analyst-hours per week.
-- Developed an enterprise RAG assistant across **15K+ documents**, reducing information retrieval time by 75%.
-- Created an AutoGen multi-agent auditing system, reducing weekly triage time from 14 hours to 35 minutes.
-
----
-
-## TECHNICAL SKILLS
-
-### Programming & Data Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### Business Intelligence & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
-
-### Databases & ETL
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-008080?style=for-the-badge" alt="ETL"/>
-  <img src="https://img.shields.io/badge/Data_Processing-4B8BBE?style=for-the-badge" alt="Data Processing"/>
-</p>
-
-### Generative AI & Agentic AI
-
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" alt="AutoGen"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-## FEATURED PROJECTS
-
-### 1. Hand Gesture Controlling System
-
-**Technologies:** Python | OpenCV
-
-- Developed a computer vision-based system to recognize hand gestures.
-- Used image processing techniques to detect and interpret hand movements.
-- Designed an interactive approach to controlling system operations through gestures.
-
-### 2. AI-Based Surveillance System
-
-**Technologies:** Python | OpenCV | TensorFlow
-
-- Developed an AI-powered surveillance solution using computer vision.
-- Applied image processing and deep learning techniques for visual monitoring.
-- Explored automated detection to improve surveillance capabilities.
-
----
-
-## ACHIEVEMENTS
-
-🏆 **1st Place – BRAIN-O-VISION AWS Hackathon (2023)**
-
-🏆 **Healthcare Winner – METALOOP (2023)**  
-Developed a Unity-based VR solution.
-
----
-
-## EDUCATION
-
-**B.Tech – Computer Science and Engineering**
-
-MLR Institute of Technology  
-2021 – 2025
-
-**CGPA:** 7.34 / 10
-
----
-
-## CERTIFICATIONS
-
-- Python – Udemy
-- C Programming – HackerRank
-- Integrated AI – Rinex
-
----
-
-## GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nsatyasaichowdary1616-debug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsatyasaichowdary1616-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=nsatyasaichowdary1616-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## LET'S CONNECT
-
-I'm always interested in connecting with professionals, collaborating on projects, and exploring opportunities in Data Analytics and Artificial Intelligence.
-
-<div align="center">
-
-<a href="mailto:nsatyasaichowdary1616@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://linkedin.com/in/nsatyasai">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/nsatyasaichowdary1616-debug">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-**"Turning Data into Insights. Turning Ideas into Intelligent Solutions."**
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340">
+  <defs>
+    <!-- Background and atmosphere -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050812"/>
+      <stop offset="0.5" stop-color="#0B1124"/>
+      <stop offset="1" stop-color="#140B2E"/>
+    </linearGradient>
+    <radialGradient id="nebula" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#A855F7" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="0.35" cy="0.3" r="0.75">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.3" stop-color="#00E5FF"/>
+      <stop offset="0.7" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow and blur effects -->
+    <filter id="bloom" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1000" height="340" rx="24"/>
+    </clipPath>
+
+    <!-- Orbit paths (drawn in each orbit's local coordinates) -->
+    <path id="o1" d="M-420,0 a420,110 0 1,0 840,0 a420,110 0 1,0 -840,0"/>
+    <path id="o2" d="M-340,0 a340,150 0 1,0 680,0 a340,150 0 1,0 -680,0"/>
+    <path id="o3" d="M-260,0 a260,70 0 1,0 520,0 a260,70 0 1,0 -520,0"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="340" rx="24" fill="url(#bg)"/>
+  <ellipse cx="500" cy="160" rx="420" ry="170" fill="url(#nebula)">
+    <animate attributeName="rx" values="400;440;400" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Stars -->
+  <g fill="#F8FAFC">
+    <circle cx="60" cy="50" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="260" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="90" r="1.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="300" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="40" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" begin="-3s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="270" r="1.4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" begin="-1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="905" cy="120" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="230" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" begin="-2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="30" r="1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="590" cy="318" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.2s" begin="-1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Orbit system centered on the core -->
+  <g transform="translate(500 160)">
+
+    <!-- Orbit 1: tilted -12 degrees, fastest -->
+    <g transform="rotate(-12)">
+      <ellipse rx="420" ry="110" fill="none" stroke="url(#ring)" stroke-opacity="0.45" stroke-width="1.4" stroke-dasharray="5 7"/>
+      <circle r="3.5" fill="#00E5FF" filter="url(#bloom)">
+        <animateMotion dur="22s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion>
+      </circle>
+      <g>
+        <animateMotion dur="22s" repeatCount="indefinite" begin="0s"><mpath href="#o1"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#00E5FF" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">PYTHON</text>
+      </g>
+      <g>
+        <animateMotion dur="22s" repeatCount="indefinite" begin="-7.33s"><mpath href="#o1"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#3B82F6" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">POWER BI</text>
+      </g>
+      <g>
+        <animateMotion dur="22s" repeatCount="indefinite" begin="-14.67s"><mpath href="#o1"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#A855F7" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">AUTOGEN</text>
+      </g>
+    </g>
+
+    <!-- Orbit 2: tilted 14 degrees, medium speed -->
+    <g transform="rotate(14)">
+      <ellipse rx="340" ry="150" fill="none" stroke="#A855F7" stroke-opacity="0.35" stroke-width="1.2"/>
+      <circle r="3" fill="#A855F7" filter="url(#bloom)">
+        <animateMotion dur="30s" repeatCount="indefinite"><mpath href="#o2"/></animateMotion>
+      </circle>
+      <g>
+        <animateMotion dur="30s" repeatCount="indefinite" begin="0s"><mpath href="#o2"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#A855F7" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">SQL</text>
+      </g>
+      <g>
+        <animateMotion dur="30s" repeatCount="indefinite" begin="-10s"><mpath href="#o2"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#22D3EE" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">TABLEAU</text>
+      </g>
+      <g>
+        <animateMotion dur="30s" repeatCount="indefinite" begin="-20s"><mpath href="#o2"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#00E5FF" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">RAG</text>
+      </g>
+    </g>
+
+    <!-- Orbit 3: tight inner ring, slowest tags -->
+    <g transform="rotate(-4)">
+      <ellipse rx="260" ry="70" fill="none" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+      <circle r="2.5" fill="#38BDF8" filter="url(#bloom)">
+        <animateMotion dur="16s" repeatCount="indefinite"><mpath href="#o3"/></animateMotion>
+      </circle>
+      <g>
+        <animateMotion dur="16s" repeatCount="indefinite" begin="0s"><mpath href="#o3"/></animateMotion>
+        <rect x="-60" y="-12" width="120" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#38BDF8" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">LANGCHAIN</text>
+      </g>
+      <g>
+        <animateMotion dur="16s" repeatCount="indefinite" begin="-5.33s"><mpath href="#o3"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#6366F1" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">AWS</text>
+      </g>
+      <g>
+        <animateMotion dur="16s" repeatCount="indefinite" begin="-10.67s"><mpath href="#o3"/></animateMotion>
+        <rect x="-55" y="-12" width="110" height="24" rx="12" fill="#0B1124" fill-opacity="0.9" stroke="#00E5FF" stroke-opacity="0.8"/>
+        <text y="4" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#F8FAFC" letter-spacing="1">PANDAS</text>
+      </g>
+    </g>
+
+    <!-- Glowing core with pulsing halos -->
+    <circle r="60" fill="url(#orb)" opacity="0.35">
+      <animate attributeName="r" values="52;68;52" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="22" fill="url(#orb)" filter="url(#bloom)"/>
+    <circle r="30" fill="none" stroke="#00E5FF" stroke-opacity="0.6">
+      <animate attributeName="r" values="26;42;26" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.7;0;0.7" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Dark plate behind the name for readability -->
+    <ellipse cx="0" cy="60" rx="320" ry="78" fill="#050812" fill-opacity="0.6" filter="url(#soft)"/>
+
+    <!-- Name and titles -->
+    <text y="62" text-anchor="middle" font-family="Segoe UI, Arial Black, Arial, sans-serif" font-size="60" font-weight="900" fill="url(#title)" filter="url(#bloom)" letter-spacing="4">SATYA SAI</text>
+    <text y="94" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="14" fill="#00E5FF" letter-spacing="4">DATA ANALYST | GENAI AND AGENTIC AI ENGINEER</text>
+    <text y="116" text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="11" fill="#94A3B8" letter-spacing="3">HYDERABAD, INDIA</text>
+  </g>
+
+  <!-- Light sweep across the banner -->
+  <rect x="-300" y="0" width="200" height="340" fill="url(#sheen)" clip-path="url(#frame)">
+    <animate attributeName="x" values="-300;1200" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Gradient border -->
+  <rect x="1" y="1" width="998" height="338" rx="23" fill="none" stroke="url(#ring)" stroke-width="1.5" stroke-opacity="0.6"/>
+</svg>
